@@ -1,0 +1,114 @@
+
+
+/* NAVBAR */
+
+.navbar{
+    opacity: .9 ;
+}
+.navbar-brand,
+.nav-link{
+    color:white !important ;
+}
+
+.nav-link:hover{
+    
+    color:lawngreen !important ;
+}
+
+
+/* SIDEBAR */
+h1{
+    
+    color: white;
+}
+
+
+.carousel-item .display-4 {
+   margin-top: -400px ;
+}
+.carousel-item .display-5 {
+    margin-top: -400px ;
+ }
+ .carousel-item .display-6 {
+    margin-top: -400px ;
+ }
+
+.carousel-item{
+    margin-top: 55px;
+}
+
+hr{
+   border-color:chartreuse;
+   width: 250px;
+   border-width: 3px;
+
+}
+
+/* ABOUT */
+.tittle{
+    text-align: center;
+    
+}
+.sub-tittle {
+    text-align: center;
+
+
+}
+.about {
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
+.about h2{
+    margin-top: 4%;
+}
+
+.galeri h3{
+    text-align: center !important;
+    color: #000;
+
+}
+
+
+    
+
+.tabout {
+    text-align: center;
+    margin-top: 30px;
+}
+
+section {
+    min-height: 600px;
+}
+
+
+
+/* GALERI */
+
+
+.galeri{
+    background-color: #eee;
+    text-align: center;
+}
+
+.galer h3{
+    margin-top: 100%;
+}
+
+/* CONTACT US */
+
+.contact h4{
+    text-align: center;
+}
+.contact{
+    padding-top: 4%;
+    
+    
+}
+
+.contact{
+    background-color :#ccc;
+}
+
+footer{
+    color: #ccc;
+}
